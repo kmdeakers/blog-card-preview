@@ -110,3 +110,9 @@ body {
     height: 32px;
     margin: 0 12px 0 0;
 }
+
+@media only screen and (max-width: 375px) {
+    .card {
+        width: 327px;
+    }
+}
